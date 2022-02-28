@@ -1,0 +1,17 @@
+{
+  "name": "feature-drawing",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.6.7"
+  },
+  "dependencies": {
+    "leaflet-toolbar": "^0.4.0-alpha.2",
+    "leaflet.pm": "^2.2.0",
+    "ol": "latest"
+  }
+}
